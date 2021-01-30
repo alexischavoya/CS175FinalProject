@@ -201,3 +201,11 @@ data/amazon/icdm/QA_Cell_Phones_and_Accessories.json.gz
 data/amazon/icdm/QA_Beauty.json.gz
 data/amazon/icdm/QA_Baby.json.gz
 data/amazon/icdm/QA_Automotive.json.gz
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/500_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/4000_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/3500_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/3000_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/2500_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/2000_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/1500_checkpoint.tar
+data/save/cb_model/cornell movie-dialogs corpus/2-2_500/1000_checkpoint.tar
