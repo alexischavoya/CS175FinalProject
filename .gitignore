@@ -209,3 +209,4 @@ data/save/cb_model/cornell movie-dialogs corpus/2-2_500/2500_checkpoint.tar
 data/save/cb_model/cornell movie-dialogs corpus/2-2_500/2000_checkpoint.tar
 data/save/cb_model/cornell movie-dialogs corpus/2-2_500/1500_checkpoint.tar
 data/save/cb_model/cornell movie-dialogs corpus/2-2_500/1000_checkpoint.tar
+.DS_Store
